@@ -18,7 +18,7 @@ The dashboard enables users to explore emergency room performance by **month and
 
 ## Dashboard Preview
 
-![Hospital Emergency Room Dashboard](Dashboard.png)
+![Hospital Emergency Room Dashboard](Dashboard(1).png)
 
 ---
 
